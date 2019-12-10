@@ -1,0 +1,21 @@
+{
+	"Fram": {
+		"to": "John",
+		"from": "Smith",
+		"heading": "Reminder",
+		"body": "Don't forget me this weekend"
+	},
+
+	"Npte": {
+		"to": "John",
+		"from": "Smith",
+		"heading": "Reminder",
+		"body": "Don't forget me this weekend"
+	},
+	"Ameer": {
+		"to": "John",
+		"from": "Smith",
+		"heading": "Reminder",
+		"body": "Don't forget me this weekend"
+	}
+}

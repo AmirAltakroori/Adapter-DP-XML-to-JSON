@@ -1,0 +1,10 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#add_Note {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
